@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-#This script looks in the 'complete' deluge folder and SFTP's files to the destination folder when it is available.
-#It requires FreeSSH or similar to be running on the target machine to be able to make a connection.
+#This script looks in the pi sample folder and SFTP's files to the destination folder when it is available.
+#It requires FreeSSH or similar to be running on the target machine if it is Windows to be able to make a connection.
 
 """
 This script is intended to loop through all the files in the
